@@ -16,7 +16,12 @@ export const metadata: Metadata = {
   title: "Shubh Verma",
   description:
     "Full-Stack Developer | MERN & Next.js | Building Scalable Web Apps | Learning in Public",
-};
+verification: {
+    google: "3Mi2PLSmwfA6DNdxoRjmaOKr4-kaqcwuCXgbJMddmjI",
+  },
+    
+
+  };
 
 export default function RootLayout({
   children,
